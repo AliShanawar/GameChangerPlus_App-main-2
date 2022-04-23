@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981090841617",
+    "project_id": "gamechanger-13ed3",
+    "storage_bucket": "gamechanger-13ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981090841617:android:a7343c6d9e3db955a1edb0",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981090841617-gkr0qf4n2thhnjg2r62rhstufdhdebok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsbUQ6E0yAF1tDxOIwYwFYI1P0Emzu58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981090841617-gkr0qf4n2thhnjg2r62rhstufdhdebok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
